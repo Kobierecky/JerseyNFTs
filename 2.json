@@ -1,0 +1,12 @@
+{
+	"description": "Jersey NFTs",
+	"image": "https://kobierecky.github.io/JerseyNFTs/1.gif",
+	"name": "Jersey NFTs",
+	"external_url": "https://jerseynfts.art",
+	"attributes": [
+		{
+			"trait_type": "Team",
+			"value": "Jersey NFTs"
+		}	
+	]
+}
