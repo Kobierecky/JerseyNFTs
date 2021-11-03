@@ -1,12 +1,15 @@
 {
-	"description": "Jersey NFTs",
-	"image": "https://kobierecky.github.io/JerseyNFTs/1.gif",
-	"name": "Jersey NFTs",
-	"external_url": "https://jerseynfts.art",
+	"description": "Gianluigi Buffon Jersey #1",
+	"image": "https://kobierecky.github.io/JerseyNFTs/1.png",
+	"name": "Gianluigi Buffon Jersey #1",
+	"external_url": "https://jerseynfts.art/1",
 	"attributes": [
 		{
 			"trait_type": "Team",
-			"value": "Jersey NFTs"
-		}	
-	]
+			"value": "Juventus FC"
+		},
+		{
+			"trait_type": "Number",
+			"value": "1"
+		}
 }
